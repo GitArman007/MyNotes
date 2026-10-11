@@ -1,0 +1,1 @@
+mongo db is the database that store data in key value pair 
